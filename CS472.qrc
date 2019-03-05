@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+		<file>SRGGE/Shaders/s1s2s3.vert</file>
+		<file>SRGGE/Shaders/s1s2s3.frag</file>
+		<file>SRGGE/Shaders/s4s5s6.frag</file>
+		<file>SRGGE/Shaders/s4s5s6.vert</file>
+		<file>SRGGE/Shaders/wall.frag</file>
+		<file>SRGGE/Shaders/wall.vert</file>
+		<file>SRGGE/Shaders/floor.frag</file>
+		<file>SRGGE/Shaders/floor.vert</file>
+    </qresource>
+</RCC>
